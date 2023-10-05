@@ -1,0 +1,14 @@
+.contenido{
+    background-color: blue;
+}
+img{
+    width: 120px;
+    height: 120px;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+p{
+    color: red
+}
